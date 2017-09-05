@@ -1,9 +1,0 @@
-C:\CodeLearn\console-teleprompter\bin\Debug\netcoreapp1.1\console-teleprompter.deps.json
-C:\CodeLearn\console-teleprompter\bin\Debug\netcoreapp1.1\console-teleprompter.runtimeconfig.json
-C:\CodeLearn\console-teleprompter\bin\Debug\netcoreapp1.1\console-teleprompter.runtimeconfig.dev.json
-C:\CodeLearn\console-teleprompter\bin\Debug\netcoreapp1.1\console-teleprompter.dll
-C:\CodeLearn\console-teleprompter\bin\Debug\netcoreapp1.1\console-teleprompter.pdb
-C:\CodeLearn\console-teleprompter\obj\Debug\netcoreapp1.1\console-teleprompter.csproj.CoreCompileInputs.cache
-C:\CodeLearn\console-teleprompter\obj\Debug\netcoreapp1.1\console-teleprompter.AssemblyInfo.cs
-C:\CodeLearn\console-teleprompter\obj\Debug\netcoreapp1.1\console-teleprompter.dll
-C:\CodeLearn\console-teleprompter\obj\Debug\netcoreapp1.1\console-teleprompter.pdb
